@@ -123,9 +123,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:khushiagrawal411@gmail.com
     - label: "Linkedin"
-        icon: "fab fa-fw fa-linkedin"
-        url: "https://www.linkedin.com/in/khushi-agrawal-413511194"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/khushi-agrawal-413511194"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
       # url:
@@ -133,8 +136,8 @@ footer:
     #  icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-        icon: "fab fa-fw fa-github"
-        url: "https://github.com/khushi-411"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/khushi-411"
     #- label: "GitLab"
     #  icon: "fab fa-fw fa-gitlab"
       # url:
