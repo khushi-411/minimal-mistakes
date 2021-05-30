@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "India"
@@ -95,55 +95,59 @@ analytics:
 # Site Author
 author:
   name             : "Khushi Agrawal"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Vision Enthusiast"
+  avatar           : "/assets/images/shinchan.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data Science & Artificial Intelligence IIIT Naya Raipur"
   location         : "India"
   email            :
   links:
     - label: "Mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: khushiagrawal411@gmail.com
+      url: mailto:khushiagrawal411@gmail.com
     - label: "Linkedin"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/khushi-agrawal-413511194"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/khushi-411"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    #- label: "Instagram"
+   #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+  - label: "Mail"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:khushiagrawal411@gmail.com
+  - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/khushi-agrawal-413511194"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/khushi-411"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    #- label: "GitLab"
+    #  icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      url: "https://bitbucket.org/khushi-411/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    #- label: "Bitbucket"
+    #  icon: "fab fa-fw fa-bitbucket"
+    #  url: "https://bitbucket.org/khushi-411/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "Linkedin"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/khushi-agrawal-413511194"
+    
 
 
 # Reading Files
@@ -182,6 +186,27 @@ keep_files:
   - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Collections
+collections:
+  dl:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  ml:
+    output: true
+    permalink: /:collection/:path/
+  st:
+    output: true
+    permalink: /:collection/:path/
+  bigdata:
+    output: true
+    permalink: /:collection/:path/
+  tuto:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Conversion
@@ -284,5 +309,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-theme: jekyll-theme-minimal
