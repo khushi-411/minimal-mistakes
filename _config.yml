@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Khushi Agrawal"
-  avatar           : "/assets/images/tomjerry.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/tomjerry.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science & Artificial Intelligence IIIT Naya Raipur"
   location         : "India"
   email            :
