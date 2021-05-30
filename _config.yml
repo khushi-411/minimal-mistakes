@@ -123,9 +123,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Mail"
-        icon: "fas fa-fw fa-envelope-square"
-        url: mailto:khushiagrawal411@gmail.com
     - label: "Linkedin"
         icon: "fab fa-fw fa-linkedin"
         url: "https://www.linkedin.com/in/khushi-agrawal-413511194"
