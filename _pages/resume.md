@@ -38,7 +38,7 @@ classes: wide
 
 
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="mael-fabien"><a class="LI-simple-link" href='https://ch.linkedin.com/in/khushi-agrawal-413511194?trk=profile-badge'>Khushi Agrawal</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="khushi-agrawal-413511194"><a class="LI-simple-link" href='https://ch.linkedin.com/in/khushi-agrawal-413511194?trk=profile-badge'>Khushi Agrawal</a></div>
 
 <br>
 <br>
