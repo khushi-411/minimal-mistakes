@@ -93,12 +93,5 @@ i {
 }
 </style>
 
+Will be updating soon!!
 
-{% include gallery id="layouts_gallery" class="full" layout="half"%}
-
-
-</div>
-</form>
-</div>
-
-<br>
