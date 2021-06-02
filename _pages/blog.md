@@ -10,6 +10,8 @@ layouts_gallery:
     image_path: /assets/images/dl_short.png
   - url: https://khushi-411.github.io/cv/
     image_path: /assets/images/cv_short.png
+  - url: https://khushi-411.github.io/ds/
+    image_path: /assets/images/ds_short.png
   
 ---
 
