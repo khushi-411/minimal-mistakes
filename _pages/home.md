@@ -14,6 +14,6 @@ Myself **Khushi Agrawal** presently a pre-final year student doing my graduation
 
 I'm having keen interest about *Computer Vision*. I love to process images. I also have some basic grip about *Machine Learning*, *Deep Learning* and *Data Science*. 
 
-Apart from these, I love to *Draw sketches* and make *Crafts* in my part timr
+Apart from these, I love to *Draw sketches* and make *Crafts* in my part time.
 
 Any kind of discussions related to the above topics are most welcome in my [Mail box](https://khushiagrawal411@gmail.com) or [Linkedin](https://www.linkedin.com/in/khushi-agrawal-413511194) 
