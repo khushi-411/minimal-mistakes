@@ -3,7 +3,6 @@ title: Greetings To You!
 layout: archive
 permalink: /home/
 author_profile: true
-layout : single_index
 redirect_from:
   - /home
 classes: wide
