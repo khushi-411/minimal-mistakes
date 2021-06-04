@@ -9,7 +9,7 @@ classes: wide
 ---
 
 
-Myself **Khushi Agrawal** presently a pre-final year student doing my graduation from International Institute of Information Technology, Naya Raipur. It's really been a great journey throughout these years. I kept stumbling over the internet to gain information. Some of the times I wasted my time while searching about information which were not useful, these blogs will help you out to gain knowledge in minimal time.
+Myself **Khushi Agrawal** presently a pre-final year student doing my graduation from International Institute of Information Technology, Naya Raipur. It's really been a great journey throughout these years. I kept stumbling over the internet to gain information. Some of the times I wasted my time while searching about details which were not useful, these blogs will help you out to gain knowledge in minimal time.
 
 I'm having keen interest about *Computer Vision*. I love to process images. I also have some basic grip about *Machine Learning*, *Deep Learning* and *Data Science*. 
 
