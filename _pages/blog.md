@@ -89,7 +89,9 @@ i {
 }
 </style>
 
-Click these buttons to read the blog post.
+
+Presently this blog post consists of *Statistical Data Analysis* methods. Click on these buttons and do check out my post. Any suggestions related to the topic are most welcome. 
+
 
 {% include gallery id="layouts_gallery" class="full" layout="half"%}
 
