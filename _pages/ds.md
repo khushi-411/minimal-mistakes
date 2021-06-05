@@ -23,4 +23,19 @@ Representation in pie-chart:
 
 This part of my blog will consists of `Data Analysis`, `Data Pre-Processing` and `Data Visualization`:
 
+# **Data Analysis** 
+
+**Data Analysis** refers to the process of collecting and defining the data according to our need, cleaning unnessary stuffs and then finally analyzing those data so as to apply them in the predictive model. 
+
+There are mainly four types of `Data Analysis` methods:
+
+* Descriptive Analysis --- What happened?
+* Exploratory Analysis --- How 
+* Predictive Analysis --- What is likely to happen i future?
+* Inferential Analysis
+
+![types-of-data-analysis](https://user-images.githubusercontent.com/62256509/120888592-b731b380-c616-11eb-8a57-d337d946828b.jpg)
+
+Will be discussing about these terms in the upcoming blogs! Stay Tunned!
+
 
