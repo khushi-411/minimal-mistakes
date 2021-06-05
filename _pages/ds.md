@@ -30,12 +30,12 @@ This part of my blog will consists of `Data Analysis`, `Data Pre-Processing` and
 There are mainly four types of `Data Analysis` methods:
 
 * Descriptive Analysis --- What happened?
-* Exploratory Analysis --- How 
+* Exploratory Analysis --- How dataset is distributed?
 * Predictive Analysis --- What is likely to happen i future?
-* Inferential Analysis
+* Inferential Analysis --- How variables are related with each other?
 
 ![types-of-data-analysis](https://user-images.githubusercontent.com/62256509/120888592-b731b380-c616-11eb-8a57-d337d946828b.jpg)
 
-Will be discussing about these terms in the upcoming blogs! Stay Tunned!
+Will be discussing about these terms in the upcoming blogs! 
 
-
+[Statistical Data Analysis]
