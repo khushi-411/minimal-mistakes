@@ -93,5 +93,5 @@ Click these buttons to read the blog post.
 
 {% include gallery id="layouts_gallery" class="full" layout="half"%}
 
-<input action="action" class="button" type="button" value="See all" onclick="location.href='https://maelfabien.github.io/year-archive/#';"/>
+<input action="action" class="button" type="button" value="See all" onclick="location.href='https://khushi-411.github.io/year-archive/#';"/>
 
