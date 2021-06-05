@@ -5,7 +5,7 @@ author_profile: true
 title: "Contents"
 layouts_gallery:
   - url: https://khushi-411.github.io/ds/
-    image_path: /assets/images/ds_button.jpg
+    image_path: /assets/images/ds-button.jpg
   
 ---
 
