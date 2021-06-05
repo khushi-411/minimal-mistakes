@@ -6,12 +6,6 @@ title: "Contents"
 layouts_gallery:
   - url: https://khushi-411.github.io/ds/
     image_path: /assets/images/ds_button.jpg
-  - url: https://khushi-411.github.io/ml/
-    image_path: /assets/images/ml_short.png
-  - url: https://khushi-411.github.io/dl/
-    image_path: /assets/images/dl_short.png
-  - url: https://khushi-411.github.io/cv/
-    image_path: /assets/images/cv_short.png
   
 ---
 
@@ -95,5 +89,9 @@ i {
 }
 </style>
 
-Will be updating soon!!
+Click these buttons to read the blog post.
+
+{% include gallery id="layouts_gallery" class="full" layout="half"%}
+
+<input action="action" class="button" type="button" value="See all" onclick="location.href='https://maelfabien.github.io/year-archive/#';"/>
 
