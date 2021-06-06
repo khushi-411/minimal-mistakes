@@ -44,6 +44,6 @@ The process of performing various statistical operations in data for quantitativ
 
 Chick on links to see those blog:
 
-* [Descriptive Statistical Analysis](https://khushi-411.github.io/_posts/datascience/ds_stats_1/) 
-* [Exploratory Data Analysis](https://khushi-411.github.io/_posts/ds_stats_2/)
-* [Inferential Statistical Analysis](https://khushi-411.github.io/_posts/ds_stats_3/)
+* [Descriptive Statistical Analysis](https://khushi-411.github.io/datascience/ds_stats_1/) 
+* [Exploratory Data Analysis](https://khushi-411.github.io/datascience/ds_stats_2/)
+* [Inferential Statistical Analysis](https://khushi-411.github.io/datascience/ds_stats_3/)
