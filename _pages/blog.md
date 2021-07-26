@@ -4,6 +4,8 @@ permalink: /blog/
 author_profile: true
 title: "Contents"
 layouts_gallery:
+  - url: https://khushi-411.github.io/pt/
+    image_path: /assets/images/pytorch-logo-dark.jpg
   - url: https://khushi-411.github.io/ds/
     image_path: /assets/images/ds-button.jpg
   - url: https://khushi-411.github.io/ml/
