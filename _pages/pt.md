@@ -9,4 +9,4 @@ sidebar:
     nav: sidebar-sample
 ---
 
-1. [Installing PyTorch From Source](https://khushi-411.github.io/pytorch/Installing_Pytorch/)
+1. [Installing PyTorch From Source](https://khushi-411.github.io/pytorch/Installing_PyTorch/)
