@@ -2,7 +2,7 @@
 title: Data Science 
 layout: single
 permalink: /ds/
-author_profile: false
+author_profile: true
 header :
     image: "https://khushi-411.github.io/assets/images/ds-logo.jpg"
 sidebar:
