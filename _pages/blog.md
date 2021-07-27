@@ -49,21 +49,21 @@ layouts_gallery:
 .column {
   align-content:center;
   float: left;
-  width: 10%;
+  width: 50%;
   height: 100%;
 }
 
 .column_home {
   align-content:center;
   float: left;
-  width: 10%;
+  width: 50%;
   height: 100%;
 }
 
 
 .center_text {
   align-content:center;
-  width: 10%;
+  width: 50%;
   vertical-align: middle;
   text-align:justify;
   text-align-last: center;
