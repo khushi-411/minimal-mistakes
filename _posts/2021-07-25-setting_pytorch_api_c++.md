@@ -8,8 +8,8 @@ read_time: true
 categories: [pytorch]
 excerpt : "PyTorch"
 header :
-    overlay_image: ""
-    teaser: ""
+    overlay_image: ![pytorch](https://user-images.githubusercontent.com/62256509/127171670-ae45b249-1b98-4c4f-be3d-3dbc09a2c40e.jpeg)
+    teaser: ![pytorch](https://user-images.githubusercontent.com/62256509/127171670-ae45b249-1b98-4c4f-be3d-3dbc09a2c40e.jpeg)
 comments : true
 toc: true
 toc_sticky: true
