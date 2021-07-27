@@ -8,8 +8,8 @@ read_time: true
 categories: [pytorch]
 excerpt : "PyTorch"
 header :
-    overlay_image: ""
-    teaser: ""
+    overlay_image: ![pytorch](https://user-images.githubusercontent.com/62256509/127171670-ae45b249-1b98-4c4f-be3d-3dbc09a2c40e.jpeg)
+    teaser: ![pytorch](https://user-images.githubusercontent.com/62256509/127171670-ae45b249-1b98-4c4f-be3d-3dbc09a2c40e.jpeg)
 comments : true
 toc: true
 toc_sticky: true
@@ -24,8 +24,6 @@ sidebar:
     src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-
-![pytorch-logo-dark](https://user-images.githubusercontent.com/62256509/126929469-67b1c7d2-622d-44b4-92ed-5d4a1f5947ac.png)
 
 Hi Everyone! In this blog post, we'll be discussing setting up a developer environment for PyTorch. Our goal is to build PyTorch from source on any of the Linux distributions. Presently, I'm working on the Ubuntu 20.04 distribution of Linux in WSL (Windows Subsystem Linux). You can install any other Ubuntu version of your choice, the procedure will be the same because all the Ubuntu versions are Debian-based. Enjoy the installation process! Yey!!  
 
