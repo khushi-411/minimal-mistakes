@@ -32,7 +32,7 @@ layouts_gallery:
   position: relative;
   padding-left: 1em;
   border-left: 0.2em solid lighten($black, 40%);
-  font-family: 'Roboto', serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: $base-font-size;
   line-height: $base-line-height;
   font-weight: 100;
@@ -49,21 +49,21 @@ layouts_gallery:
 .column {
   align-content:center;
   float: left;
-  width: 50%;
+  width: 70%;
   height: 100%;
 }
 
 .column_home {
   align-content:center;
   float: left;
-  width: 20%;
+  width: 70%;
   height: 100%;
 }
 
 
 .center_text {
   align-content:center;
-  width: 50%;
+  width: 70%;
   vertical-align: middle;
   text-align:justify;
   text-align-last: center;
@@ -95,9 +95,6 @@ i {
   text-align: center;
 }
 </style>
-
-
-Presently this blog post consists of *Statistical Data Analysis* methods. Click on these buttons and do check out my post. Any suggestions related to the topic are most welcome. 
 
 
 {% include gallery id="layouts_gallery" class="full" layout="half"%}
