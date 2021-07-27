@@ -168,5 +168,5 @@ I'd love to thank [Kshitij Kalambarkar](https://github.com/kshitij12345) and [Ku
 
 **References:**
 
-* https://github.com/pytorch/pytorch
-* https://www.youtube.com/watch?v=AIkvOtHJZeo&list=PLFYhn53SnsgJI2jjjsV0bZu3tdfi361wv&index=1
+* [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
+* [https://www.youtube.com/watch?v=AIkvOtHJZeo&list=PLFYhn53SnsgJI2jjjsV0bZu3tdfi361wv&index=1](https://www.youtube.com/watch?v=AIkvOtHJZeo&list=PLFYhn53SnsgJI2jjjsV0bZu3tdfi361wv&index=1)
