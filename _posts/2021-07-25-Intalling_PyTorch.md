@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 read_time: true
 categories: [pytorch]
-excerpt : "Pytorch"
+excerpt : "PyTorch"
 header :
     overlay_image: ""
     teaser: ""
@@ -23,6 +23,7 @@ sidebar:
 <script type="text/javascript" async
     src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
+
 
 ![pytorch-logo-dark](https://user-images.githubusercontent.com/62256509/126929469-67b1c7d2-622d-44b4-92ed-5d4a1f5947ac.png)
 
