@@ -103,6 +103,9 @@ author:
     - label: "Mail"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:khushiagrawal411@gmail.com
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/khushi-411"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/khushi-agrawal-413511194"
@@ -112,9 +115,6 @@ author:
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/khushi-411"
     #- label: "Instagram"
    #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -124,7 +124,7 @@ author:
 footer:
   links:
     - label: "Mail"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-envelope-square"
       url: mailto:khushiagrawal411@gmail.com
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
