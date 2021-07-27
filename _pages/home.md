@@ -8,11 +8,8 @@ redirect_from:
 classes: wide
 ---
 
+Hey Everyone! This is Khushi Agrawal, I'm a pre-final year student pursuing my graduation from IIIT-NR in Data Science & Artificial Intelligence. Currently, I'm doing internship at The Quansight Labs! I'm working on adding Benchmarks to NumPy Library. 
 
-Myself **Khushi Agrawal** presently a pre-final year student doing my graduation from International Institute of Information Technology, Naya Raipur. It's really been a great journey throughout these years. I kept stumbling over the internet to gain information. Some of the times I wasted my time while searching about details which were not useful, these blogs will help you out to gain knowledge in minimal time.
-
-I'm having keen interest about *Computer Vision*. I love to process images. I also have some basic grip about *Machine Learning*, *Deep Learning* and *Data Science*. 
-
-Apart from these, I love to *Draw sketches* and make *Crafts* in my part time.
+Apart from technical stuffs, I love to draw different types of arts (majorly landscape & zentangle). I also love traveling and reading books. I love to learn different things from different people and that's the reason why I love working in a team which lead me diving into The Open Source World<3!
 
 Any kind of discussions related to the above topics are most welcome in my [Mail box](https://khushiagrawal411@gmail.com) or [Linkedin](https://www.linkedin.com/in/khushi-agrawal-413511194)!
