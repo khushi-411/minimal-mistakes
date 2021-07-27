@@ -17,7 +17,7 @@ classes: wide
   text-decoration: none;
   outline: none;
   color: #fff;
-  background-color: #7187bd;
+  background-color: #000000; 
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
@@ -42,7 +42,5 @@ classes: wide
 
 <br>
 <br>
-
-# Education
 
 
