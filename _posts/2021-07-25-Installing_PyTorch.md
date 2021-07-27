@@ -35,7 +35,7 @@ I prefer to install Anaconda first because things become easy to install. You ca
 
 After downloading Anaconda3 we have to run the following command:
 
-```
+```bash
 chmod +x Anaconda3-2021.05-Linux-x86_64.sh
 ```
 
@@ -43,7 +43,7 @@ Here, the `Anaconda3-2021.05-Linux-x86_64.sh` is the name of the downloaded Anac
 
 To install Anaconda, use the command:
 
-```
+```bash
 ./Anaconda3-2021.05-Linux-x86_64.sh
 ```
 
@@ -53,19 +53,19 @@ Now, confirm the license agreement and continue the following procedure. After t
 
 Our next task is to create a PyTorch development environment, run the following code:
 
-```
+```bash
 conda create --name pytorch-dev python=3.8.10
 ```
 
 `pytorch-dev` is just the name of the environment, I want to create. You can choose yours! We need to activate our development environment use:
 
-```
+```bash
 conda activate pytorch-dev
 ```
 
 Now, we have to install PyTorch from the source, use the following command:
 
-```
+```bash
 conda install astunparse numpy ninja pyyaml mkl mkl-include setuptools cmake cffi typing_extensions future six requests dataclasses
 ```
 
@@ -79,7 +79,7 @@ We will be compiling our code using CUDA, we will be installing the required too
 
 Now, run the following commands to install CUDA on your machine.
 
-```
+```bash
 wget https://developer.download.nvidia.com/compute/cuda/repos/wsl-ubuntu/x86_64/cuda-wsl-ubuntu.pin
 sudo mv cuda-wsl-ubuntu.pin /etc/apt/preferences.d/cuda-repository-pin-600
 wget https://developer.download.nvidia.com/compute/cuda/11.2.2/local_installers/cuda-repo-wsl-ubuntu-11-2-local_11.2.2-1_amd64.deb
@@ -91,7 +91,7 @@ sudo apt-get -y install cuda
 
 For Linux:
 
-```
+```bash
 conda install -c pytorch magma-cuda112
 ```
 
@@ -108,7 +108,7 @@ Visit [this](https://developer.nvidia.com/cudnn) link to download cuDNN. Check o
 
 Now, we need to extract our `cuDNN` package installed, use the following command:
 
-```
+```bash
 tar -xvzf cudnn-11.3-linux-x64-v8.2.1.32.tgz
 ```
 I created a folder named `cudnn` and extracted the `cuDNN` file there.
@@ -117,13 +117,13 @@ I created a folder named `cudnn` and extracted the `cuDNN` file there.
 
 We can check whether CUDA is installed or not using `ls /usr/local/cuda` command. To set the path use:
 
-```
+```bash
 export PATH=/usr/local/cuda/bin/:$PATH
 ```
 
 Setting the path for `lib` folder of CUDA using:
 
-```
+```bash
 export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH
 ```
 
@@ -131,7 +131,7 @@ We can check whether the `CUDA compiler` works or not using the `nvcc` command.
 
 Last step to go! We just need to copy all the `include` and `lib64` header files to the `CUDA` folder. First, we have to go to the file where we have saved `cudnn` files then run the following commands:
 
-```
+```bash
 sudo cp -r cuda/include/cudnn* /usr/local/cuda/include
 sudo cp -r cuda/lib64/libcudnn* /usr/local/cuda/lib64
 ```
@@ -140,20 +140,20 @@ sudo cp -r cuda/lib64/libcudnn* /usr/local/cuda/lib64
 
 Now, it is ready to use, we just have to clone the PyTorch directory. We will run the following command:
 
-```
+```bash
 git clone https://github.com/pytorch/pytorch
 ```
 
 Let's update our submodule using:
 
-```
+```bash
 git submodule sync
 git submodule update --init --recursive
 ```
 
 One more step to go!!! Install PyTorch on Linux by running the following command:
 
-```
+```bash
 export CMAKE_PREFIX_PATH=${CONDA_PREFIX:-"$(dirname $(which conda))/../"}
 python3 setup.py develop
 ```
