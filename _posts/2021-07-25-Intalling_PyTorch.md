@@ -1,12 +1,12 @@
 ---
 published: true
 title: Installing PyTorch from Source!
-collection: ds
+collection: pt
 layout: single
 author_profile: true
 read_time: true
-categories: [datascience]
-excerpt : "Data Science"
+categories: [pytorch]
+excerpt : "Pytorch"
 header :
     overlay_image: ""
     teaser: ""
