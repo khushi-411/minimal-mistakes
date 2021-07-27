@@ -110,7 +110,7 @@ Now, build the project and run the code. We'll get:
 
 ### Acknowledgment
 
-Special thanks to [Kshitij Kalambarkar](https://github.com/kshitij12345) and [Kushashwa Ravi Shrimali](https://github.com/krshrimali) for your valuable suggestions, feedback, and for helping me. Cheers to you guys!
+Special thanks to [Kshitij Kalambarkar](https://github.com/kshitij12345) and [Kushashwa Ravi Shrimali](https://github.com/krshrimali) for your valuable suggestions, feedback and for helping me. Cheers to you guys!
 
 ### References
 
