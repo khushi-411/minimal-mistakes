@@ -1,5 +1,3 @@
-## Greetings To You!
-
 Hey Everyone! This is Khushi Agrawal, I’m a pre-final year student pursuing my graduation from IIIT-NR in Data Science & Artificial Intelligence. Currently, I’m doing an internship at The Quansight Labs! I’m working on adding Benchmarks to NumPy Library. I love to learn new things. 
 
 ### Technical Skills
