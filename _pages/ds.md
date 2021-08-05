@@ -49,3 +49,4 @@ Chick on links to see those blog:
 * [Inferential Statistical Analysis](https://khushi-411.github.io/datascience/ds_stats_3/)
 
 
+* [check](https://khushi-411.github.io/datascience/check/)
