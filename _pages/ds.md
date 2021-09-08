@@ -4,7 +4,7 @@ layout: single
 permalink: /ds/
 author_profile: true
 header :
-    image: "https://khushi-411.github.io/assets/images/ds-logo.jpg"
+    image:
 sidebar:
     nav: sidebar-sample
 ---
