@@ -4,7 +4,6 @@ layout: single
 permalink: /pt/
 author_profile: true
 header :
-    image: ""
 sidebar:
     nav: sidebar-sample
 ---
