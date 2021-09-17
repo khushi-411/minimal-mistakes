@@ -3,7 +3,6 @@ title: PyTorch
 layout: single
 permalink: /pt/
 author_profile: true
-header :
 sidebar:
     nav: sidebar-sample
 ---
